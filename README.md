@@ -2,7 +2,7 @@
 
 ✨ Project: Modern & Stylish Frontend for a Food-Tech Website
 A sleek and responsive frontend website built for a fictional company called Omnifood, now live at:
-👉 https://frontend-omini-nishant.netlify.app
+👉 https://frontend-omni-nishant.netlify.app
 
 This project emphasizes clean layout, modern UI, and great UX using CSS Flexbox and Grid wherever appropriate. The site includes:
 
