@@ -1,12 +1,28 @@
 # Omnifood Website Project
 
-Modern and stylish frontend for a website built for a fictional company called omnifood.
+✨ Project: Modern & Stylish Frontend for a Food-Tech Website
+A sleek and responsive frontend website built for a fictional company called Omnifood, now live at:
+👉 https://frontend-omini-nishant.netlify.app
+
+This project emphasizes clean layout, modern UI, and great UX using CSS Flexbox and Grid wherever appropriate. The site includes:
+
+A hero section with a compelling CTA
+
+Two clean and responsive pricing cards
+
+A showcase of diet options offered by the service
+
+A step-by-step “How It Works” walkthrough
+
+Testimonials and gallery sections to reinforce service trust
+
+A strong call-to-action section followed by a clean footer
+
+The site follows responsive design principles with breakpoints set based on actual layout needs rather than fixed device widths — ensuring great visuals across a wide range of screen sizes.
+
+Additional UX details include thoughtful line heights, law of proximity, contrast ratios, and consistent spacing — all contributing to a modern and user-friendly experience.
 
 
-
-The website uses flexbox and grid layouts as and when required to come up with clean and professional look. It currently shows 2 pricing cards along with list of diets provided by the service. The main Call-to-action section comes in the end right before the footer. Until then the user goes through details on how the service works in the how-it-works section and is reinforced on the quality of the service via testimonial section and galleries.
-
-Responsive UI with breakpoints placed at dimensions where the layout breaks rather than adhering to strict device widths ensure the website looks good in a wide range of screens. Following up on responsive UI, this front end properly emphasizes UX and its importance in Web Design with appropriate styling such as line heights, law-of-proximity & contrast ratios.
 
 ### Hero Section ###
 ![image](https://user-images.githubusercontent.com/73631606/158005262-680da066-564b-4457-845a-03973139b711.png)
